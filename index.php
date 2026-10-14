@@ -47,7 +47,7 @@ $words3=[
 
 //Crea una variabile di tipo Stringa chiamata $results che stampi a terminare il seguente testo, attraverso l’accesso agli array sopra: “Nel mezzo di cammin di nostra vita mi ritrovai per una selva oscura, che' la diritta via era smarrita“.
 
-$result=$words3[0].$words1[6][3][0].$words3[1].$words3[2].$words1[4]." ".$words1[6][4]." ".$words1[6][5]." ".$words3[3]." ".$words1[6][0].$words3[7]." ".$words3[4]." ".$words1[7]." " .$words3[5];
+$result=$words3[0].$words1[6][3][0].$words3[1].$words3[2].$words1[4]." ".$words1[6][4]." ".$words1[6][5]." ".$words3[3]." ".$words1[6][0].$words3[6]." ".$words3[4]." ".$words1[7]." " .$words3[5];
 
 echo $result;
 ?>
